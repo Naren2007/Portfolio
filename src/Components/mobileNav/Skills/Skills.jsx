@@ -1,7 +1,7 @@
 import React from 'react'
 import { SKILLS } from '../../../utils/data'
 import SkillCard from './Skillcard/SkillCard'
-import frontend from '../../../Images/frontend.png'
+// import frontend from '../../../Images/frontend.png'
 import './Skills.css'
 const Skills = () => {
   return (
