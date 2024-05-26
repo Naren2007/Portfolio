@@ -1,10 +1,10 @@
 import React from 'react'
 import './Hero.css'
-// import reacths from 'D:/REACT/portfolio/src/Images/reacths.png'
-import techie from 'D:/REACT/portfolio/src/Images/techie.png'
-import html from 'D:/REACT/portfolio/src/Images/html.png'
-import css from 'D:/REACT/portfolio/src/Images/css.png'
-import javascript from 'D:/REACT/portfolio/src/Images/javascript.png'
+import reacths from '../../Images/reacths.png'
+import techie from '../../Images/techie.png'
+import html from '../../Images/html.png'
+import css from '../../Images/css.png'
+import javascript from '../../Images/javascript.png'
 const Hero = () => {
   return (
     <>
@@ -17,9 +17,9 @@ const Hero = () => {
 
         <div className="hero-img">
             <div>
-{/*                 <div className="tech-icon">
+                <div className="tech-icon">
                     <img className='reacti' src={reacths} alt="" />
-                </div> */}
+                </div>
                 <img className='techie' src={techie} alt="" />
             </div>
             <div>
