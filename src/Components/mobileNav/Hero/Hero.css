@@ -78,6 +78,9 @@
     transform: translateY(-0.5rem);
 
 }
+.techie{
+    border-radius: 15px;
+}
 @media (max-width:1025px){
     .hero-content h2{
         font-size: 3rem;
@@ -100,11 +103,11 @@
     }
 }
 @media (max-width:770px){
-    .hero-content{
+    .hero-container{
         flex-direction: column;
     }
     .hero-img{
-        margin: 2rem 0 2rem 0;
+        margin: 3rem 0 2rem 0;
     }
     .hero-content h2{
         margin-top: 3rem;
@@ -128,7 +131,7 @@
         right: 0rem;
     }
 }
-@media (max-width:400px){
+@media (max-width:600px){
     .hero-content h2{
         font-size: 2.2rem;
         line-height: 3rem;
@@ -145,7 +148,7 @@
         gap: 1rem;
     }
     .hero-img > div > img{
-        width: 16rem;
+        width: 15rem;
     }
     .tech-icon{
         width: 3.3rem;
