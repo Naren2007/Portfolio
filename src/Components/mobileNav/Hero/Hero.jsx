@@ -1,10 +1,10 @@
 import React from 'react'
 import './Hero.css'
-import reacths from '../../Images/reacths.png'
-import techie from '../../Images/techie.png'
-import html from '../../Images/html.png'
-import css from '../../Images/css.png'
-import javascript from '../../Images/javascript.png'
+import reacths from '../../../Images/reacths.png'
+import techie from '../../../Images/techie.png'
+import html from '../../../Images/html.png'
+import css from '../../../Images/css.png'
+import javascript from '../../../Images/javascript.png'
 const Hero = () => {
   return (
     <>
