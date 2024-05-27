@@ -8,7 +8,7 @@ import javascript from '../../../Images/javascript.png'
 const Hero = () => {
   return (
     <>
-      <section className='hero-container'>
+      <section id="home" className='hero-container'>
 
         <div className='hero-content'>
            <h2>BUilding Digital EXperience That Inspire</h2>
