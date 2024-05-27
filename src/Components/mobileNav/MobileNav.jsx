@@ -8,10 +8,10 @@ const MobileNav = ({ isOpen, togglemenu}) => {
             <img className='logo' src="" alt="" />
             <ul>
                 <li>
-                   <a className="menu-item" href="#section">Home</a>
+                   <a className="menu-item" href="#home">Home</a>
                 </li>
                 <li>
-                   <a className="menu-item" href="#s">Skills</a>
+                   <a className="menu-item" href="#skills">Skills</a>
                 </li>
                 <li>
                    <a className="menu-item" href="#s">Work Experience</a>
