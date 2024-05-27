@@ -75,6 +75,14 @@ li{
     outline: 1px solid #a993fc;
 
 }
+.hire-btn a{
+    color: #fff;
+    text-decoration: none;
+}
+.hire-btn:hover > a{
+    color: #a993fc;
+
+}
 .menu-btn{
     width:2.5rem;
     height: 2.5rem;
