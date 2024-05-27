@@ -14,9 +14,6 @@ const MobileNav = ({ isOpen, togglemenu}) => {
                    <a className="menu-item" href="#skills">Skills</a>
                 </li>
                 <li>
-                   <a className="menu-item" href="#s">Work Experience</a>
-                </li>
-                <li>
                    <a className="menu-item" href="#s">Contact me</a>
                 </li>
                 <button className='hire-btn' onClick={()=>{}}>HIRE ME</button>
