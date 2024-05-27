@@ -20,7 +20,7 @@ const Navbar = () => {
                  <a className="menu-item" href="#skills">Skills</a>
               </li>
               <li>
-                 <a className="menu-item" href="#c">Contact me</a>
+                 <a className="menu-item" href="#contact">Contact me</a>
               </li>
               <button className='hire-btn' onClick={()=>{}}>HIRE ME</button>
             </ul>

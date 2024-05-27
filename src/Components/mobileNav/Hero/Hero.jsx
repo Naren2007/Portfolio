@@ -11,7 +11,9 @@ const Hero = () => {
       <section id="home" className='hero-container'>
 
         <div className='hero-content'>
-           <h2>BUilding Digital EXperience That Inspire</h2>
+           
+          <p>Hello,</p>
+           <h2>I'M NAREN</h2>
            <p> Passionate Front End Developer | Transforming Ideas Into Seamless And Visually Stunning Web Solutions </p>
         </div>
 
@@ -32,6 +34,7 @@ const Hero = () => {
               <div className="tech-icon">
                   <img className='javascript' src={javascript} alt="" />                
               </div>
+              
             </div>
         </div>
       </section>   
