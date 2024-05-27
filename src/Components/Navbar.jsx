@@ -14,16 +14,16 @@ const Navbar = () => {
             <img className="logo" src="" alt="" />
             <ul>
               <li>
-                 <a className="menu-item" href="#s">Home</a>
+                 <a className="menu-item" href="#home">Home</a>
               </li>
               <li>
-                 <a className="menu-item" href="#s">Skills</a>
+                 <a className="menu-item" href="#skillz">Skills</a>
               </li>
               <li>
-                 <a className="menu-item" href="#ss">Work Experience</a>
+                 <a className="menu-item" href="#we">Work Experience</a>
               </li>
               <li>
-                 <a className="menu-item" href="#s">Contact me</a>
+                 <a className="menu-item" href="#c">Contact me</a>
               </li>
               <button className='hire-btn' onClick={()=>{}}>HIRE ME</button>
             </ul>
